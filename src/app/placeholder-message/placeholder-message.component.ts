@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./placeholder-message.component.css']
 })
 export class PlaceholderMessageComponent implements OnInit {
+  title = 'baseline-ng'
 
   constructor() { }
 
